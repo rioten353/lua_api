@@ -1,2 +1,3 @@
 #lua api 
-## luarocks install dkjson
+# luarocks install dkjson
+# lua main.lua 
